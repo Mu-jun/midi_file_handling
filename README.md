@@ -1,0 +1,1 @@
+pyfluidsynth 패키지를 제대로 가져오지 못하는 오류가 계속 발생하여 이를 pyfluidsynth가 필요한 패키지가 설치된 곳에 fluidsynth.py파일을 가져가고 import fluidsynth 를 from . import fluidsynth 로 변경하여 해결...ㅜ
